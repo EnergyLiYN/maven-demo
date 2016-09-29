@@ -1,0 +1,5 @@
+edu\zju\cst\myproject\model\User.class
+edu\zju\cst\myproject\util\EntitiesHelper.class
+edu\zju\cst\myproject\util\HibernateUtil.class
+edu\zju\cst\myproject\dao\UserDao.class
+edu\zju\cst\myproject\dao\IUserDao.class
